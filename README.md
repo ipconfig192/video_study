@@ -1,0 +1,2 @@
+# video_study
+ideo_study是一个基于java语言的web端互动学习社交平台，实现了基于权限认证的基本的用户管理功能和文章、课程增删改查、留言评论等。权限验证使用SpringSecurity；后端框架使用SpringBoot+SSM组合；Logback作日志记录；前端根据Vue+Nodejs构建；项目基于前后端分离开发。
